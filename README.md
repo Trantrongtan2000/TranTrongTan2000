@@ -1,5 +1,12 @@
 ### Hehey man 😎😎😎
 
+Xin chào, đây là profile của tui, Trần Trọng Tấn, sinh viên Kỹ thuật y sinh đang học tại đại học công nghệ TP.HCM (a.k.a Hutech)
+
+Phần lớn code lưu ở đây là những gì tui học, test và lưu back up nên có gì thắc mắc hãy ib tui qua: 
+fb.com/Tan21042000
+Hoặc mail: 32.trantrongtan.92@gmail.com 
+
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 <!--
 **Trantrongtan2000/TranTrongTan2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
